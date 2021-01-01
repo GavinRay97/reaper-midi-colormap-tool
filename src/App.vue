@@ -201,7 +201,7 @@
   <br />
   <hr />
   <br />
-  <img id="colormap-guide-image" src="./assets/colormap_guide.png" />
+  <img id="colormap-guide-image" src="images/colormap_guide.png" />
 </template>
 
 <script>
